@@ -1,7 +1,5 @@
 # twitter_latent_scams
 
-**Work in Progress**
-
 A pipeline to help identify and analyze topics of conversations around scams.
 
 I recommend you save the tweet data in json format (one tweet per line) to Google Drive to use these notebooks. The notebooks will help label your data as being relevant to the scam conversation.
